@@ -204,3 +204,7 @@ img.squ {
     color: red;
     text-shadow: 3px 3px 4px black; /* Black drop shadow */
 }
+.card-img-fixed-height {
+    height: 200px; /* Adjust the height as needed */
+    object-fit: cover; /* This ensures the image covers the entire box */
+}
